@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plugin3.0_ios/!svn/ver/708/trunk/code/public/EUExDevice/uexDevice
+END
+uexDevice.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plugin3.0_ios/!svn/ver/708/trunk/code/public/EUExDevice/uexDevice/uexDevice.dylib
+END
+libuexDevice.a
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/plugin3.0_ios/!svn/ver/708/trunk/code/public/EUExDevice/uexDevice/libuexDevice.a
+END
+info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plugin3.0_ios/!svn/ver/506/trunk/code/public/EUExDevice/uexDevice/info.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plugin3.0_ios/!svn/ver/54/trunk/code/public/EUExDevice/uexDevice/plugin.xml
+END
